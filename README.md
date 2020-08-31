@@ -22,5 +22,3 @@ Operating Instructions
 
 9. Using Spyder editor to open and run the image stylization program 
 
-The reuslt images shows below
-
