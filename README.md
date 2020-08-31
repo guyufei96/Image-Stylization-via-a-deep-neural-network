@@ -21,3 +21,6 @@ Operating Instructions
 8. Restart Anaconda Prompt, active tensorflow environment and run Spyder
 
 9. Using Spyder editor to open and run the image stylization program 
+
+The reuslt images shows below
+
